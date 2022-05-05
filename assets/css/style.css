@@ -601,7 +601,7 @@ opacity: 0.8;
 
 }
 #contact {
-    background-image: url("/assets/img/bureau.jpg");
+    background-image: url("../img/bureau.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

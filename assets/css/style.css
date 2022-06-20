@@ -477,7 +477,7 @@ opacity: 0.8;
 }
 
 .li {
-    font-size: 2rem !important;
+    font-size: 2.5rem !important;
     font-weight:bold;
     color:#151717;
     text-align: center;
@@ -550,7 +550,7 @@ opacity: 0.8;
     background: #eee;
     border-radius: 4px;
     /* width: 32rem; */
-  
+
     margin:3rem;
     filter:sepia(0.3);
     text-align: center;
